@@ -1,6 +1,5 @@
-Introduction
-======
+# Introduction
 
 _Hello!_
 
-Open Issues to let contribute together!
+Open Pull Requests and let's contribute together!
